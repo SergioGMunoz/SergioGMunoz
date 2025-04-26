@@ -5,7 +5,7 @@ I'm a passionate Web Development student, constantly learning about new technolo
 
 
 ### 🚀 Technologies I use
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 #### Programming
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -31,12 +31,13 @@ I'm a passionate Web Development student, constantly learning about new technolo
 ![Adobe Creative Suite](https://img.shields.io/badge/Adobe_Creative_Cloud-DA1F26?style=flat&logo=adobe-creative-cloud&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### (emogi) GitHub Analytics
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 (cabiar por los mios)
 ![Ibrahim's github stats](https://github-readme-stats.vercel.app/api?username=IhChowdhury&show_icons=true&theme=radical)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 ### 🤝🏻 Contact me
