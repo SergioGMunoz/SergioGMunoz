@@ -1,8 +1,9 @@
 <h1 align="center"><b>Hi there, I'm Sergio G </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-My journey began behind the scenes of movies and TV shows 🎬
+My journey began behind the scenes of movies and TV shows 🎬  
 I'm a passionate Web Development student, constantly learning about new technologies 💻
 
+---
 
 ### 🚀 Technologies I use
 
@@ -22,8 +23,8 @@ I'm a passionate Web Development student, constantly learning about new technolo
 
 #### Learning
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-(Angular)
-(NodeJS)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 #### Others
@@ -33,13 +34,17 @@ I'm a passionate Web Development student, constantly learning about new technolo
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### (emogi) GitHub Analytics
-(cabiar por los mios)
-![Ibrahim's github stats](https://github-readme-stats.vercel.app/api?username=IhChowdhury&show_icons=true&theme=radical)
+---
+
+### 📊 GitHub Analytics
+
+![Sergio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SergioGMunoz&show_icons=true&theme=radical)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+---
 
 ### 🤝🏻 Contact me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuusuario/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tuemail@example.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/tuusuario/](https://www.linkedin.com/in/sergiogonzalezmu%C3%B1oz/))  
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sergiogmunozdev@gmail.com)
