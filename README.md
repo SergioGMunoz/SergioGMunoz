@@ -11,12 +11,6 @@ Now, I'm a passionate Web Development student, constantly learning about new tec
 
 ### 🚀 Technologies I use
 
-#### 🛠️ Programming
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-### 🚀 Technologies I use
-
 #### 🎨 Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
