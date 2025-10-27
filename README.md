@@ -42,15 +42,6 @@ Now, I'm a passionate Web Development student, constantly learning about new tec
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Adobe Creative Suite](https://img.shields.io/badge/Adobe_Creative_Cloud-DA1F26?style=flat&logo=adobe-creative-cloud&logoColor=white)
-
-#### 💼 Methodologies
-![Agile](https://img.shields.io/badge/Agile_Methodology-0052CC?style=flat&logo=atlassian&logoColor=white)
-![Scrum](https://img.shields.io/badge/Scrum-2496ED?style=flat&logo=scrumalliance&logoColor=white)
-.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ---
 
